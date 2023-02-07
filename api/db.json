@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Streaming OW",
+      "description": "Join le stream",
+      "id": 1
+    },
+    {
+      "title": "Streaming OW",
+      "description": "Join le stream",
+      "id": 2
+    },
+    {
+      "title": "alo",
+      "description": "alooo",
+      "id": 3
+    },
+    {
+      "title": "this was created by me",
+      "description": "meeeeeeee",
+      "userId": "109971766478074270682",
+      "id": 4
+    },
+    {
+      "title": "My streaming component reuse ",
+      "description": "this change was made with PATCH requst",
+      "userId": "109971766478074270682",
+      "id": 6
+    }
+  ]
+}

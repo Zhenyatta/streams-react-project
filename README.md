@@ -1,0 +1,1 @@
+A raect application that lets you stream videos vie "OBS studio" app. This app is based on RESTful conventions, you have the ability to fetch, create, edit and delete the streams. You can login to the app with Google auth. 
